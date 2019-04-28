@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>javascript</title>
+</head>
+<body>
+  <script type="text/javascript">document.write("arun");</script> 
+</body>
+</html>
